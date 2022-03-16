@@ -22,6 +22,9 @@
     - [前N名筛选](?file=003-Tableau学习/002-Tableau Desktop技巧/01-前N名筛选 "前N名筛选")
     - [数据关联](?file=003-Tableau学习/002-Tableau Desktop技巧/02-数据关联 "数据关联")
     - [分层功能](?file=003-Tableau学习/002-Tableau Desktop技巧/03-分层功能 "分层功能")
+    - [CustomSQL使用](?file=003-Tableau学习/002-Tableau Desktop技巧/04-CustomSQL使用 "CustomSQL使用")
+- **Tableau Prep Builder技巧**
+    - [筛选并保留最新的记录](?file=003-Tableau学习/003-Tableau Prep Builder技巧/01-筛选并保留最新的记录 "筛选并保留最新的记录")
 
 ##### Finance Related金融相关知识
 - [CFA学习笔记](?file=004-Finance Related金融相关知识/001-CFA学习笔记 "CFA学习笔记")
