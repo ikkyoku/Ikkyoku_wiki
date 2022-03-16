@@ -21,6 +21,7 @@
 - **Tableau Desktop技巧**
     - [前N名筛选](?file=003-Tableau学习/002-Tableau Desktop技巧/01-前N名筛选 "前N名筛选")
     - [数据关联](?file=003-Tableau学习/002-Tableau Desktop技巧/02-数据关联 "数据关联")
+    - [分层功能](?file=003-Tableau学习/002-Tableau Desktop技巧/03-分层功能 "分层功能")
 
 ##### Finance Related金融相关知识
 - [CFA学习笔记](?file=004-Finance Related金融相关知识/001-CFA学习笔记 "CFA学习笔记")
