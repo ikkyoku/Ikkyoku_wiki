@@ -25,6 +25,8 @@
     - [CustomSQL使用](?file=003-Tableau学习/002-Tableau Desktop技巧/04-CustomSQL使用 "CustomSQL使用")
 - **Tableau Prep Builder技巧**
     - [筛选并保留最新的记录](?file=003-Tableau学习/003-Tableau Prep Builder技巧/01-筛选并保留最新的记录 "筛选并保留最新的记录")
+- **开发人员工具**
+    - [开发人员工具类型](?file=003-Tableau学习/004-开发人员工具/01-开发人员工具类型 "开发人员工具类型")
 
 ##### Finance Related金融相关知识
 - [CFA学习笔记](?file=004-Finance Related金融相关知识/001-CFA学习笔记 "CFA学习笔记")
@@ -32,6 +34,7 @@
 
 ##### 个人wiki搭建
 - [方案设计](?file=005-个人wiki搭建/001-方案设计 "方案设计")
+- [方案升级](?file=005-个人wiki搭建/002-方案升级 "方案升级")
 
 ##### 咖啡知识整理
 - [我对咖啡的认知](?file=006-咖啡知识整理/001-我对咖啡的认知 "我对咖啡的认知")
