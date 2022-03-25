@@ -25,7 +25,7 @@ pip install tabpy
 ```
 tabpy
 ```
-
+会显示初始化TabPy Server
 ```
 Call context logging is disabled
 Initializing TabPy...
@@ -81,3 +81,4 @@ print(r)
 - TabPy-Github：https://github.com/tableau/TabPy
 - 在Tableau中使用Python（TabPy的使用）：https://zhuanlan.zhihu.com/p/65402912
 - Tableau 高级 | TabPy使用：https://blog.csdn.net/ganzheyu/article/details/80344732
+- TablePy Application：https://www.youtube.com/watch?v=nRtOMTnBz_Y
